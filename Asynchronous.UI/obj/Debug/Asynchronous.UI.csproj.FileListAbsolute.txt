@@ -1,0 +1,13 @@
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\bin\Debug\Asynchronous.UI.exe.config
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\bin\Debug\Asynchronous.UI.exe
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\bin\Debug\Asynchronous.UI.pdb
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.csprojResolveAssemblyReference.cache
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.Properties.Resources.resources
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask1.resources
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.csproj.GenerateResource.Cache
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.exe
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.pdb
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask5.resources
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask4.resources
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask3.resources
+c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask2.resources
