@@ -18,3 +18,4 @@ C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchro
 C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask6.resources
 C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask12.resources
 C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask11.resources
+C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask13.resources
