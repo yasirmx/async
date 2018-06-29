@@ -45,6 +45,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TplTask12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TplTask12.Designer.cs">
+      <DependentUpon>TplTask12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TplTask11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TplTask11.Designer.cs">
+      <DependentUpon>TplTask11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TplTask10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TplTask10.Designer.cs">
+      <DependentUpon>TplTask10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TplTask9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TplTask9.Designer.cs">
+      <DependentUpon>TplTask9.cs</DependentUpon>
+    </Compile>
     <Compile Include="TplTask8.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +128,18 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="TplTask12.resx">
+      <DependentUpon>TplTask12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TplTask11.resx">
+      <DependentUpon>TplTask11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TplTask10.resx">
+      <DependentUpon>TplTask10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TplTask9.resx">
+      <DependentUpon>TplTask9.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TplTask8.resx">
       <DependentUpon>TplTask8.cs</DependentUpon>
     </EmbeddedResource>

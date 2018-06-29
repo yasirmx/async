@@ -11,3 +11,10 @@ c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchro
 c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask4.resources
 c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask3.resources
 c:\users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask2.resources
+C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask10.resources
+C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask9.resources
+C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask8.resources
+C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask7.resources
+C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask6.resources
+C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask12.resources
+C:\Users\mauleear\documents\visual studio 2015\Projects\Asynchronous.UI\Asynchronous.UI\obj\Debug\Asynchronous.UI.TplTask11.resources

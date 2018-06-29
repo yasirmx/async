@@ -16,7 +16,7 @@ namespace Asynchronous.UI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TplTask5());
+            Application.Run(new TplTask12());
         }
     }
 }
